@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/toastcolor"
+    android:padding="8dp"
+    android:id="@+id/toast_id"
+    >
+
+    <ImageView
+        android:id="@+id/toast_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_cake"
+        android:layout_marginEnd="5dp"></ImageView>
+    <TextView
+        android:id="@+id/toast_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Happy Birthday"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        ></TextView>
+</LinearLayout>

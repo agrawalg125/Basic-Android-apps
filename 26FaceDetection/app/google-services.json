@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649350758015",
+    "firebase_url": "https://mlkitonline-2aadf.firebaseio.com",
+    "project_id": "mlkitonline-2aadf",
+    "storage_bucket": "mlkitonline-2aadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649350758015:android:bcabef87a92cdbf0b8c94a",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649350758015-0rr8oj4sqo7ue1ep2dv0o4ttt6ebhh19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facedetection",
+            "certificate_hash": "6310915dc5c943278005637bfc4c9e2b30316593"
+          }
+        },
+        {
+          "client_id": "649350758015-f14ntdlna9bqjpjurfd73h7s25ci7bs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxdbRbRvTQgmOT0_NMPq477BQ8slAg5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649350758015-f14ntdlna9bqjpjurfd73h7s25ci7bs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
